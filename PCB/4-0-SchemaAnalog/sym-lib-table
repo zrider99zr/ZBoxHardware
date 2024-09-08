@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name teensy)(type Legacy)(uri ${KIPRJMOD}/Libraries/teensy.lib)(options "")(descr ""))
+  (lib (name keyboard_parts)(type Legacy)(uri ${KIPRJMOD}/Libraries/keyboard_parts.lib)(options "")(descr ""))
+  (lib (name mkl27z256vfm4)(type Legacy)(uri ${KIPRJMOD}/Libraries/mkl27z256vfm4.lib)(options "")(descr ""))
+  (lib (name SSD1306_OLED-0.91-128x32)(type Legacy)(uri ${KIPRJMOD}/Libraries/SSD1306_OLED-0.91-128x32.lib)(options "")(descr ""))
+  (lib (name ZBox3-0-rescue)(type Legacy)(uri ${KIPRJMOD}/ZBox3-0-rescue.lib)(options "")(descr ""))
+)
